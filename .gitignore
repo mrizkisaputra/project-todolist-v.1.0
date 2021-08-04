@@ -1,0 +1,12 @@
+.idea
+Todo-List-App.iml
+.classpath
+.project
+
+target/archive-tmp
+target/classes
+target/generated-test-sources
+target/maven-archiver
+target/maven-status
+target/surefire-reports
+target/test-classes
